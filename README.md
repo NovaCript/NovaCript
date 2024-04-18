@@ -21,6 +21,15 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="git" alt="git" width="40" height="40"/>&nbsp;
 </div>
+
+### :fire: My Stats :
+
+### [![GitHub Streak](https://streak-stats.demolab.com/?user=NovaCript&theme=github-dark-blue)](https://git.io/streak-stats)
+
+### [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NovaCript&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### [![codewars](https://www.codewars.com/users/NovaCript/badges/large)](https://www.codewars.com/users/NovaCript)
+
 <!--
 **NovaCript/NovaCript** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
